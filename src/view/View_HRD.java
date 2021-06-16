@@ -8,7 +8,7 @@ public class View_HRD extends JFrame{
 	private JLabel username_label;
 	private JLabel password_label;
 	void setFrame() {
-		setSize(400, 600);
+		setSize(800, 600);
 		setTitle("HRD");
 		setLocationRelativeTo(null);
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
